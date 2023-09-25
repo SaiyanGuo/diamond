@@ -6,7 +6,7 @@ import { CodeMirror } from '../libs/cm6.module.js'
 /** __
 *    _)_|_|_
 *   __) |_| | 2023
-* @author lo.th / https://github.com/lo-th
+* @author lo.th / https://github.com/saiyanguo
 */
 
 export class Editor {

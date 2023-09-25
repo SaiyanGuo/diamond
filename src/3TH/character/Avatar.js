@@ -34,7 +34,7 @@ import { Lee } from './Lee.js';
 /** __
 *    _)_|_|_
 *   __) |_| | 2023
-*  @author lo.th / https://github.com/lo-th
+*  @author lo.th / https://github.com/saiyanguo
 * 
 *  AVATAR
 */

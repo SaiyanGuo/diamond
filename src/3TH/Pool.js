@@ -14,7 +14,7 @@ import { GlbTool } from './utils/GlbTool.js';
 /** __
 *    _)_|_|_
 *   __) |_| | 2023
-* @author lo.th / https://github.com/lo-th
+* @author lo.th / https://github.com/saiyanguo
 */
 
 export const Pool = {

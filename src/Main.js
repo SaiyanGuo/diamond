@@ -47,7 +47,7 @@ import WebGPURenderer from 'three/addons/renderers/webgpu/WebGPURenderer.js';
 /** __
 *    _)_|_|_
 *   __) |_| | 2023
-*  @author lo.th / https://github.com/lo-th
+*  @author lo.th / https://github.com/saiyanguo
 * 
 *  MAIN THREE.JS / PHY
 */
@@ -1097,7 +1097,7 @@ const upStat = () => {
 //   GUI FUCTION
 //--------------------
 
-//const gotoGithub = () => { window.open( 'https://github.com/lo-th/phy', '_blank' ) }
+//const gotoGithub = () => { window.open( 'https://github.com/saiyanguo/phy', '_blank' ) }
 const upShader = () => { Shader.up( options ) }
 
 const showGround = ( v ) => {

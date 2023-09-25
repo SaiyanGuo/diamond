@@ -9,7 +9,7 @@ import { Pool } from './Pool.js'
 /** __
 *    _)_|_|_
 *   __) |_| | 2023
-* @author lo.th / https://github.com/lo-th
+* @author lo.th / https://github.com/saiyanguo
 */
 const menuList = ['ENV', 'PHY', 'CAM', 'POST', 'MAT', 'OBJ'];
 const toneMappingOptions = {
@@ -601,7 +601,7 @@ export const Gui = {
 
 	},*/
 
-	gotoGithub: () => { window.open( 'https://github.com/lo-th/phy', '_blank' ) },
+	gotoGithub: () => { window.open( 'https://github.com/saiyanguo/phy', '_blank' ) },
 
 	
 

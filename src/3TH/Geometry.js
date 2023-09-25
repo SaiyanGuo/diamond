@@ -16,7 +16,7 @@ import { mergeVertices, mergeGeometries } from '../jsm/utils/BufferGeometryUtils
 /** __
 *    _)_|_|_
 *   __) |_| | 2022
-* @author lo.th / https://github.com/lo-th
+* @author lo.th / https://github.com/saiyanguo
 */
 
 export function geometryInfo( g, type, Size ) {

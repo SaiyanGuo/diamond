@@ -5,7 +5,7 @@ import {
 /** __
 *    _)_|_|_
 *   __) |_| | 2022
-* @author lo.th / https://github.com/lo-th
+* @author lo.th / https://github.com/saiyanguo
 */
 
 let isGL2 = true;

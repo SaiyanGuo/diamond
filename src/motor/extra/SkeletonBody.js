@@ -5,7 +5,7 @@ import { Object3D, Vector3, Quaternion, Euler, Matrix4 } from 'three';
 /** __
 *    _)_|_|_
 *   __) |_| | 2023
-*  @author lo.th / https://github.com/lo-th
+*  @author lo.th / https://github.com/saiyanguo
 * 
 *  SKELETON BODY
 *  make and controle rigidbody from skeleton bones 

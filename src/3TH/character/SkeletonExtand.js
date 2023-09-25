@@ -3,7 +3,7 @@ import { Skeleton, Matrix4, Vector3, MathUtils, Quaternion } from 'three';
 /** __
 *    _)_|_|_
 *   __) |_| | 2023
-*  @author lo.th / https://github.com/lo-th
+*  @author lo.th / https://github.com/saiyanguo
 * 
 *  SKELETON EXTAND
 *  add bone scale and physics controle of bones

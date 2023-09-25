@@ -34,7 +34,7 @@ import { sk } from '../3TH/character/SkeletonExtand.js'
 /** __
 *    _)_|_|_
 *   __) |_| | 2023
-* @author lo.th / https://github.com/lo-th
+* @author lo.th / https://github.com/saiyanguo
 *
 *    THREE JS ENGINE
 */
@@ -232,7 +232,7 @@ export class Motor {
 		var arr = url.split("/");
 		url = arr[0] + "//" + arr[2] + '/';
 
-		if( url === 'https://lo-th.github.io/' ) url = 'https://lo-th.github.io/phy/';
+		if( url === 'https://saiyanguo.github.io/' ) url = 'https://saiyanguo.github.io/phy/';
 
 		const path = o.path || 'build/';
 		const wasmLink = {

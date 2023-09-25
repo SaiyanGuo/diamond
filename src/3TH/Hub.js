@@ -8,7 +8,7 @@ import { Motor } from '../motor/Motor.js'
 /** __
 *    _)_|_|_
 *   __) |_| | 2023
-* @author lo.th / https://github.com/lo-th
+* @author lo.th / https://github.com/saiyanguo
 */
 
 let Main = null;
@@ -590,7 +590,7 @@ export class Hub {
 
     static homeLink ( type ) {
         switch(type){
-            case 'Github': window.open( 'https://github.com/lo-th/phy', '_blank'); break;
+            case 'Github': window.open( 'https://github.com/saiyanguo/phy', '_blank'); break;
             case 'Docs': window.open( './docs/index.html#manual/Welcome', '_blank'); break;
             case 'Worker': Hub.swapWorker(); break;
             case 'Code': Hub.swapCode(); break;
